@@ -7,7 +7,7 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 1. README.md 
 2. run_analysis.R 
 3. CodeBook.md
-4. tidydata.txt
+4. tidydata.txt  (output from 'run_analysis.R' script)
 ### Data Information
 The data used in this project was collected from 30 subjects who performed 6 activities with Samsung Galaxy S smartphone wore on the waist.  
 The data for this project can be found here :
