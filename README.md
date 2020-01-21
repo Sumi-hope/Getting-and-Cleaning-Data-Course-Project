@@ -9,7 +9,7 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 3. CodeBook.md
 4. tidydata.txt  (output from 'run_analysis.R' script)
 ### Data Information
-The data used in this project was collected from 30 subjects who performed 6 activities with Samsung Galaxy S smartphone wore on the waist.  
+The data used in this project was collected from 30 subjects who performed 6 activities with Samsung Galaxy S smartphone worn on the waist.  
 The data for this project can be found here :
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
