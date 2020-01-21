@@ -9,9 +9,9 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 The data set includes data downloaded from the following files :
 * 'X_train.txt': Training set
 * 'y_train.txt': Training labels
-*'X_test.txt': Test set
-*'y_test.txt': Test labels
-*'subject_train.txt'
-*'subject_test.txt'
-*'activity_labels.txt'
-*'features.txt'
+* 'X_test.txt': Test set
+* 'y_test.txt': Test labels
+* 'subject_train.txt'
+* 'subject_test.txt'
+* 'activity_labels.txt'
+* 'features.txt'
