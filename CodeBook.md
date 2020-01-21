@@ -19,6 +19,6 @@ The data set includes data downloaded from the following files :
 ### The variables
 * Subject column is numbered from 1 to 30.
 * Activity column has 6 types (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-Only the variables from the mean and standard deviation are extracted for the tidy data set.
-* mean()
-* std()
+* Only the variables from the mean and standard deviation are extracted for the tidy data set.
+  1. mean()
+  2. std()
